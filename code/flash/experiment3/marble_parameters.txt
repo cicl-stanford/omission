@@ -1,0 +1,13 @@
+Exp 2:
+	world.setBall1(780,60,-3.5,0.83,0); // green ball (top)
+	world.setBall2(80,300,0,0,0);
+	world.setBall3(780,540,-3.5,-1.5,200); // blue ball (bottom)
+
+
+Position of the horizontal barrier top: 
+
+	var horizontalWallBody: b2Body = createWalls((WIDTH / 1) / SCALE, 155 / SCALE, (WIDTH / 1.95) / SCALE, (20 / 2) / SCALE, "horizontalWall");
+
+Position of the horizontal barrier bottom: 
+
+	var horizontalWallBody: b2Body = createWalls((WIDTH / 1) / SCALE, 445 / SCALE, (WIDTH / 1.95) / SCALE, (20 / 2) / SCALE, "horizontalWall");

@@ -9,6 +9,10 @@ This project contains the materials for the paper "A counterfactual simulation m
 ├── code
 │   ├── R
 │   │   └── cache
+│   ├── flash
+│   │   ├── experiment1
+│   │   ├── experiment2
+│   │   └── experiment3
 │   └── python
 │       └── figures
 ├── data
@@ -43,6 +47,10 @@ This project contains the materials for the paper "A counterfactual simulation m
 ### R 
 
 Analysis and plotting script. You can view a rendered html file of the analysis [here](https://cicl-stanford.github.io/omission/). 
+
+### flash 
+
+Adobe Animate files that were used to create the video clips in the different experiments. 
 
 ### python 
 
