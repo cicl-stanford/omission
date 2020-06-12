@@ -1,0 +1,477 @@
+ID	query 	expectation	target	rating	number	Sex	Age 
+198	causation 	cause	missed	99	1	2	46
+199	causation 	cause	missed	18	2	2	26
+200	causation 	cause	missed	100	3	1	23
+201	causation 	cause	missed	29	4	1	25
+202	causation 	cause	missed	50	5	1	59
+203	causation 	cause	missed	99	6	2	41
+204	causation 	cause	missed	87	7	1	33
+205	causation 	cause	missed	7	8	2	35
+206	causation 	cause	missed	21	9	1	33
+207	causation 	cause	missed	51	10	1	46
+208	causation 	cause	missed	84	11	1	24
+209	causation 	cause	missed	50	12	2	59
+210	causation 	cause	missed	17	13	2	23
+211	causation 	cause	missed	55	14	1	21
+212	causation 	cause	missed	0	15	1	39
+213	causation 	cause	missed	99	16	1	30
+214	causation 	cause	missed	99	17	1	32
+215	causation 	cause	missed	24	18	1	28
+216	causation 	cause	missed	71	19	2	29
+217	causation 	cause	missed	53	20	1	25
+218	causation 	cause	missed	99	21	1	73
+219	causation 	cause	missed	3	22	1	36
+220	causation 	cause	missed	1	23	2	61
+221	causation 	cause	missed	0	24	2	33
+222	causation 	cause	missed	31	25	1	21
+223	causation 	cause	missed	99	26	2	35
+224	causation 	cause	missed	4	27	2	47
+225	causation 	cause	missed	1	28	2	39
+226	causation 	cause	missed	53	29	1	22
+227	causation 	cause	missed	0	30	1	44
+228	causation 	cause	missed	100	31	2	24
+229	causation 	cause	missed	0	32	2	28
+230	causation 	cause	missed	100	33	1	35
+231	causation 	cause	missed	47	34	2	27
+232	causation 	cause	missed	100	35	1	53
+233	causation 	cause	missed	42	36	2	37
+234	causation 	cause	missed	100	37	2	25
+235	causation 	cause	missed	0	38	1	28
+236	causation 	cause	missed	49	39	2	28
+237	causation 	cause	missed	100	40	2	32
+238	causation 	cause	missed	7	41	2	25
+239	causation 	cause	missed	2	42	1	33
+1	causation 	help	missed	74	85	2	57
+2	causation 	help	missed	100	86	1	23
+3	causation 	help	missed	100	87	2	32
+4	causation 	help	missed	99	88	1	25
+5	causation 	help	missed	1	89	2	32
+6	causation 	help	missed	67	90	1	30
+7	causation 	help	missed	69	91	1	28
+8	causation 	help	missed	1	92	2	67
+9	causation 	help	missed	56	93	2	25
+10	causation 	help	missed	28	94	2	42
+11	causation 	help	missed	63	95	2	27
+12	causation 	help	missed	63	96	2	29
+13	causation 	help	missed	2	97	1	27
+14	causation 	help	missed	8	98	1	39
+15	causation 	help	missed	26	99	2	55
+16	causation 	help	missed	100	100	2	19
+17	causation 	help	missed	99	101	2	62
+18	causation 	help	missed	99	102	2	47
+19	causation 	help	missed	88	103	1	49
+20	causation 	help	missed	99	104	2	66
+21	causation 	help	missed	53	105	2	45
+22	causation 	help	missed	22	106	1	34
+23	causation 	help	missed	100	107	2	56
+24	causation 	help	missed	100	108	1	30
+25	causation 	help	missed	2	109	2	27
+26	causation 	help	missed	50	110	2	21
+27	causation 	help	missed	99	111	2	45
+28	causation 	help	missed	62	112	1	32
+29	causation 	help	missed	1	113	1	36
+30	causation 	help	missed	99	114	1	18
+31	causation 	help	missed	89	115	1	28
+32	causation 	help	missed	100	116	2	32
+33	causation 	help	missed	1	117	2	27
+34	causation 	help	missed	100	118	2	40
+35	causation 	help	missed	3	119	1	22
+36	causation 	help	missed	100	120	1	41
+37	causation 	help	missed	10	121	2	21
+38	causation 	help	missed	21	122	2	35
+39	causation 	help	missed	100	123	2	38
+40	causation 	help	missed	67	124	2	45
+124	causation 	hinder	went through	100	165	2	18
+125	causation 	hinder	went through	59	166	2	26
+126	causation 	hinder	went through	100	167	1	26
+127	causation 	hinder	went through	100	168	2	35
+128	causation 	hinder	went through	100	169	1	18
+129	causation 	hinder	went through	100	170	1	61
+130	causation 	hinder	went through	87	171	2	30
+131	causation 	hinder	went through	100	172	2	24
+132	causation 	hinder	went through	100	173	1	48
+133	causation 	hinder	went through	5	174	1	34
+134	causation 	hinder	went through	99	175	2	21
+135	causation 	hinder	went through	97	176	2	24
+136	causation 	hinder	went through	99	177	2	50
+137	causation 	hinder	went through	100	178	1	23
+138	causation 	hinder	went through	99	179	1	20
+139	causation 	hinder	went through	98	180	1	51
+140	causation 	hinder	went through	100	181	1	36
+141	causation 	hinder	went through	99	182	1	22
+142	causation 	hinder	went through	94	183	2	35
+143	causation 	hinder	went through	94	184	1	22
+144	causation 	hinder	went through	2	185	1	45
+145	causation 	hinder	went through	100	186	2	44
+146	causation 	hinder	went through	70	187	1	48
+147	causation 	hinder	went through	100	188	1	24
+148	causation 	hinder	went through	100	189	2	26
+149	causation 	hinder	went through	100	190	1	43
+150	causation 	hinder	went through	1	191	2	40
+151	causation 	hinder	went through	100	192	1	31
+152	causation 	hinder	went through	100	193	1	20
+153	causation 	hinder	went through	99	194	1	28
+154	causation 	hinder	went through	99	195	1	38
+155	causation 	hinder	went through	84	196	1	22
+156	causation 	hinder	went through	100	197	1	25
+157	causation 	hinder	went through	100	198	1	50
+158	causation 	hinder	went through	100	199	2	35
+159	causation 	hinder	went through	29	200	1	18
+361	causation 	none_m	missed	3	244	1	29
+362	causation 	none_m	missed	74	245	2	32
+363	causation 	none_m	missed	9	246	1	25
+364	causation 	none_m	missed	0	247	1	46
+365	causation 	none_m	missed	3	248	2	28
+366	causation 	none_m	missed	66	249	1	21
+367	causation 	none_m	missed	0	250	2	65
+368	causation 	none_m	missed	23	251	1	31
+369	causation 	none_m	missed	29	252	2	35
+370	causation 	none_m	missed	100	253	1	45
+371	causation 	none_m	missed	0	254	2	28
+372	causation 	none_m	missed	10	255	1	38
+373	causation 	none_m	missed	0	256	2	32
+374	causation 	none_m	missed	25	257	1	27
+375	causation 	none_m	missed	55	258	2	26
+376	causation 	none_m	missed	48	259	1	36
+377	causation 	none_m	missed	76	260	1	35
+378	causation 	none_m	missed	16	261	1	36
+379	causation 	none_m	missed	0	262	1	25
+380	causation 	none_m	missed	65	263	1	45
+381	causation 	none_m	missed	1	264	1	25
+382	causation 	none_m	missed	4	265	1	34
+383	causation 	none_m	missed	91	266	1	36
+384	causation 	none_m	missed	11	267	1	56
+385	causation 	none_m	missed	0	268	2	41
+386	causation 	none_m	missed	3	269	1	24
+387	causation 	none_m	missed	4	270	1	33
+388	causation 	none_m	missed	50	271	1	25
+389	causation 	none_m	missed	50	272	1	25
+390	causation 	none_m	missed	55	273	2	30
+391	causation 	none_m	missed	0	274	2	33
+392	causation 	none_m	missed	100	275	1	54
+393	causation 	none_m	missed	1	276	2	23
+394	causation 	none_m	missed	4	277	2	25
+395	causation 	none_m	missed	1	278	2	60
+396	causation 	none_m	missed	36	279	1	25
+397	causation 	none_m	missed	0	280	1	50
+398	causation 	none_m	missed	0	281	2	27
+399	causation 	none_m	missed	0	282	2	20
+400	causation 	none_m	missed	3	283	1	54
+401	causation 	none_m	missed	99	284	2	26
+322	causation 	none_wt	went through	1	325	1	47
+323	causation 	none_wt	went through	65	326	1	52
+324	causation 	none_wt	went through	11	327	1	27
+325	causation 	none_wt	went through	25	328	1	31
+326	causation 	none_wt	went through	43	329	2	28
+327	causation 	none_wt	went through	2	330	2	37
+328	causation 	none_wt	went through	0	331	2	18
+329	causation 	none_wt	went through	14	332	1	83
+330	causation 	none_wt	went through	100	333	1	51
+331	causation 	none_wt	went through	82	334	1	31
+332	causation 	none_wt	went through	28	335	1	20
+333	causation 	none_wt	went through	100	336	2	38
+334	causation 	none_wt	went through	99	337	1	33
+335	causation 	none_wt	went through	100	338	2	36
+336	causation 	none_wt	went through	95	339	2	25
+337	causation 	none_wt	went through	99	340	1	33
+338	causation 	none_wt	went through	36	341	1	43
+339	causation 	none_wt	went through	0	342	2	30
+340	causation 	none_wt	went through	82	343	1	21
+341	causation 	none_wt	went through	100	344	1	74
+342	causation 	none_wt	went through	29	345	1	32
+343	causation 	none_wt	went through	17	346	2	40
+344	causation 	none_wt	went through	47	347	1	60
+345	causation 	none_wt	went through	42	348	2	20
+346	causation 	none_wt	went through	68	349	1	23
+347	causation 	none_wt	went through	0	350	1	21
+348	causation 	none_wt	went through	22	351	1	33
+349	causation 	none_wt	went through	69	352	2	20
+350	causation 	none_wt	went through	21	353	2	60
+351	causation 	none_wt	went through	72	354	1	21
+352	causation 	none_wt	went through	11	355	1	44
+353	causation 	none_wt	went through	78	356	1	40
+354	causation 	none_wt	went through	8	357	1	18
+355	causation 	none_wt	went through	100	358	1	22
+356	causation 	none_wt	went through	6	359	2	55
+357	causation 	none_wt	went through	73	360	2	47
+358	causation 	none_wt	went through	76	361	2	18
+359	causation 	none_wt	went through	51	362	1	18
+360	causation 	none_wt	went through	84	363	2	51
+240	causation 	prevent	went through	7	404	1	25
+241	causation 	prevent	went through	18	405	1	45
+242	causation 	prevent	went through	74	406	2	60
+243	causation 	prevent	went through	51	407	2	35
+244	causation 	prevent	went through	66	408	2	30
+245	causation 	prevent	went through	79	409	1	34
+246	causation 	prevent	went through	1	410	1	22
+247	causation 	prevent	went through	0	411	1	23
+248	causation 	prevent	went through	45	412	1	34
+249	causation 	prevent	went through	100	413	2	27
+250	causation 	prevent	went through	81	414	2	19
+251	causation 	prevent	went through	99	415	2	30
+252	causation 	prevent	went through	100	416	2	49
+253	causation 	prevent	went through	44	417	1	24
+254	causation 	prevent	went through	58	418	1	71
+255	causation 	prevent	went through	96	419	2	57
+256	causation 	prevent	went through	48	420	2	46
+257	causation 	prevent	went through	99	421	2	44
+258	causation 	prevent	went through	99	422	2	22
+259	causation 	prevent	went through	9	423	2	43
+260	causation 	prevent	went through	100	424	2	56
+261	causation 	prevent	went through	26	425	1	23
+262	causation 	prevent	went through	99	426	2	30
+263	causation 	prevent	went through	100	427	2	34
+264	causation 	prevent	went through	100	428	2	43
+265	causation 	prevent	went through	100	429	1	48
+266	causation 	prevent	went through	99	430	1	29
+267	causation 	prevent	went through	30	431	1	45
+268	causation 	prevent	went through	18	432	2	46
+269	causation 	prevent	went through	100	433	2	24
+270	causation 	prevent	went through	100	434	1	20
+271	causation 	prevent	went through	47	435	2	31
+272	causation 	prevent	went through	0	436	2	39
+273	causation 	prevent	went through	92	437	2	21
+274	causation 	prevent	went through	66	438	2	18
+275	causation 	prevent	went through	51	439	1	27
+276	causation 	prevent	went through	14	440	2	31
+277	causation 	prevent	went through	80	441	2	41
+278	causation 	prevent	went through	100	442	1	26
+1	probability 	none_m	missed	27	285	2	25
+2	probability 	cause	missed	3	43	1	21
+3	probability 	none_m	missed	54	286	2	33
+5	probability 	cause	missed	37	44	2	31
+7	probability 	none_m	missed	58	287	1	35
+9	probability 	cause	missed	55	45	1	23
+12	probability 	cause	missed	89	46	2	37
+14	probability 	none_m	missed	97	288	2	21
+16	probability 	cause	missed	3	47	2	60
+17	probability 	none_m	missed	16	289	1	34
+19	probability 	cause	missed	54	48	1	34
+20	probability 	none_m	missed	59	290	2	34
+21	probability 	cause	missed	100	49	2	26
+23	probability 	none_m	missed	17	291	2	20
+26	probability 	none_m	missed	34	292	1	19
+28	probability 	cause	missed	36	50	1	29
+30	probability 	none_m	missed	80	293	1	39
+34	probability 	cause	missed	48	51	2	36
+36	probability 	none_m	missed	35	294	2	44
+39	probability 	none_m	missed	83	295	1	43
+41	probability 	cause	missed	98	52	2	20
+43	probability 	none_m	missed	36	296	1	24
+45	probability 	cause	missed	5	53	1	24
+47	probability 	none_m	missed	38	297	2	36
+49	probability 	none_m	missed	57	298	2	60
+51	probability 	cause	missed	0	54	2	54
+53	probability 	none_m	missed	65	299	2	38
+55	probability 	cause	missed	100	55	1	27
+58	probability 	cause	missed	58	56	1	24
+60	probability 	none_m	missed	57	300	2	38
+62	probability 	cause	missed	7	57	1	26
+64	probability 	none_m	missed	9	301	2	26
+66	probability 	cause	missed	1	58	2	23
+69	probability 	cause	missed	94	59	1	28
+72	probability 	cause	missed	48	60	1	30
+74	probability 	none_m	missed	52	302	2	43
+75	probability 	cause	missed	0	61	2	42
+77	probability 	none_m	missed	41	303	1	51
+79	probability 	cause	missed	50	62	1	25
+81	probability 	cause	missed	49	63	2	29
+82	probability 	none_m	missed	37	304	2	20
+84	probability 	cause	missed	99	64	1	70
+86	probability 	none_m	missed	18	305	1	30
+91	probability 	cause	missed	42	65	2	38
+93	probability 	none_m	missed	50	306	2	32
+95	probability 	cause	missed	32	66	1	54
+97	probability 	none_m	missed	83	307	1	18
+98	probability 	cause	missed	92	67	1	47
+100	probability 	none_m	missed	3	308	2	29
+101	probability 	cause	missed	84	68	1	69
+103	probability 	none_m	missed	6	309	1	25
+105	probability 	cause	missed	51	69	1	67
+107	probability 	none_m	missed	0	310	1	21
+109	probability 	cause	missed	81	70	1	19
+111	probability 	none_m	missed	60	311	2	45
+113	probability 	none_m	missed	53	312	1	30
+115	probability 	cause	missed	66	71	2	27
+117	probability 	none_m	missed	65	313	2	44
+118	probability 	cause	missed	57	72	2	32
+120	probability 	none_m	missed	67	314	2	31
+122	probability 	cause	missed	81	73	2	28
+124	probability 	none_m	missed	3	315	1	29
+127	probability 	none_m	missed	12	316	1	33
+129	probability 	cause	missed	64	74	2	50
+131	probability 	none_m	missed	79	317	2	31
+133	probability 	cause	missed	50	75	1	22
+135	probability 	none_m	missed	4	318	2	34
+138	probability 	cause	missed	83	76	2	29
+140	probability 	none_m	missed	17	319	2	31
+141	probability 	cause	missed	100	77	2	21
+144	probability 	cause	missed	89	78	2	30
+146	probability 	none_m	missed	33	320	1	29
+148	probability 	cause	missed	20	79	1	18
+151	probability 	cause	missed	88	80	1	20
+153	probability 	none_m	missed	16	321	2	28
+154	probability 	cause	missed	28	81	1	23
+156	probability 	none_m	missed	36	322	1	31
+157	probability 	cause	missed	50	82	2	37
+159	probability 	none_m	missed	43	323	1	30
+161	probability 	cause	missed	80	83	2	40
+162	probability 	none_m	missed	100	324	1	48
+164	probability 	cause	missed	54	84	2	20
+165	probability 	help	missed	71	125	2	33
+166	probability 	help	missed	66	126	1	37
+167	probability 	help	missed	69	127	2	31
+168	probability 	help	missed	71	128	2	28
+169	probability 	help	missed	61	129	1	47
+170	probability 	help	missed	23	130	1	25
+171	probability 	help	missed	57	131	2	19
+172	probability 	help	missed	93	132	1	35
+173	probability 	help	missed	39	133	1	24
+174	probability 	help	missed	16	134	1	30
+175	probability 	help	missed	83	135	2	23
+176	probability 	help	missed	12	136	2	53
+177	probability 	help	missed	80	137	1	42
+178	probability 	help	missed	59	138	2	49
+179	probability 	help	missed	73	139	1	36
+180	probability 	help	missed	20	140	2	33
+181	probability 	help	missed	33	141	2	20
+182	probability 	help	missed	27	142	1	35
+183	probability 	help	missed	95	143	2	65
+184	probability 	help	missed	55	144	1	47
+185	probability 	help	missed	97	145	1	21
+186	probability 	help	missed	60	146	1	45
+187	probability 	help	missed	87	147	1	26
+188	probability 	help	missed	77	148	2	28
+189	probability 	help	missed	68	149	1	44
+190	probability 	help	missed	93	150	2	68
+191	probability 	help	missed	50	151	2	30
+192	probability 	help	missed	98	152	1	18
+193	probability 	help	missed	76	153	2	25
+194	probability 	help	missed	100	154	1	28
+195	probability 	help	missed	70	155	1	45
+196	probability 	help	missed	52	156	1	34
+197	probability 	help	missed	55	157	1	29
+198	probability 	help	missed	38	158	1	39
+199	probability 	help	missed	64	159	2	21
+200	probability 	help	missed	17	160	2	37
+201	probability 	help	missed	52	161	2	53
+202	probability 	help	missed	84	162	2	45
+203	probability 	help	missed	61	163	2	50
+204	probability 	help	missed	93	164	2	64
+206	probability 	hinder	went through	28	201	2	30
+208	probability 	none_wt	went through	85	364	1	22
+210	probability 	hinder	went through	79	202	2	41
+212	probability 	none_wt	went through	74	365	2	27
+213	probability 	prevent	went through	88	443	1	27
+215	probability 	hinder	went through	75	203	2	26
+217	probability 	none_wt	went through	68	366	1	25
+218	probability 	prevent	went through	40	444	2	21
+220	probability 	hinder	went through	82	204	2	33
+222	probability 	none_wt	went through	71	367	1	44
+223	probability 	prevent	went through	100	445	2	44
+225	probability 	hinder	went through	55	205	1	35
+227	probability 	none_wt	went through	78	368	2	20
+228	probability 	prevent	went through	93	446	1	18
+230	probability 	hinder	went through	87	206	2	38
+232	probability 	none_wt	went through	69	369	1	57
+233	probability 	prevent	went through	65	447	1	25
+235	probability 	hinder	went through	83	207	1	21
+236	probability 	none_wt	went through	29	370	2	24
+239	probability 	none_wt	went through	95	371	1	52
+240	probability 	prevent	went through	48	448	1	29
+241	probability 	hinder	went through	27	208	2	30
+242	probability 	none_wt	went through	64	372	1	19
+243	probability 	prevent	went through	43	449	2	35
+245	probability 	hinder	went through	91	209	1	58
+247	probability 	none_wt	went through	43	373	1	32
+249	probability 	hinder	went through	90	210	2	31
+251	probability 	none_wt	went through	69	374	2	47
+252	probability 	prevent	went through	85	450	1	26
+254	probability 	hinder	went through	58	211	2	22
+256	probability 	none_wt	went through	60	375	1	41
+257	probability 	prevent	went through	89	451	2	22
+260	probability 	none_wt	went through	100	376	2	25
+261	probability 	prevent	went through	79	452	1	28
+263	probability 	hinder	went through	16	212	1	30
+265	probability 	none_wt	went through	93	377	2	31
+266	probability 	hinder	went through	60	213	1	21
+268	probability 	none_wt	went through	64	378	2	27
+269	probability 	prevent	went through	20	453	1	38
+271	probability 	hinder	went through	78	214	2	33
+273	probability 	none_wt	went through	53	379	1	28
+275	probability 	hinder	went through	65	215	1	18
+277	probability 	none_wt	went through	50	380	2	55
+279	probability 	hinder	went through	66	216	1	25
+281	probability 	none_wt	went through	75	381	1	26
+283	probability 	hinder	went through	83	217	1	19
+285	probability 	none_wt	went through	91	382	1	27
+287	probability 	hinder	went through	100	218	2	40
+289	probability 	prevent	went through	51	454	2	55
+292	probability 	prevent	went through	89	455	1	23
+294	probability 	hinder	went through	48	219	1	39
+295	probability 	none_wt	went through	95	383	1	53
+296	probability 	prevent	went through	62	456	1	24
+297	probability 	hinder	went through	79	220	1	25
+299	probability 	none_wt	went through	49	384	1	58
+300	probability 	prevent	went through	67	457	1	32
+301	probability 	hinder	went through	72	221	1	26
+303	probability 	none_wt	went through	12	385	1	45
+304	probability 	prevent	went through	1	458	2	36
+306	probability 	hinder	went through	17	222	2	46
+308	probability 	none_wt	went through	79	386	1	32
+309	probability 	prevent	went through	24	459	1	23
+312	probability 	hinder	went through	21	223	2	36
+313	probability 	none_wt	went through	99	387	2	32
+314	probability 	prevent	went through	97	460	1	41
+316	probability 	hinder	went through	70	224	2	28
+318	probability 	none_wt	went through	39	388	1	33
+319	probability 	prevent	went through	68	461	2	39
+321	probability 	hinder	went through	77	225	1	22
+323	probability 	prevent	went through	84	462	2	42
+325	probability 	hinder	went through	69	226	1	45
+327	probability 	none_wt	went through	61	389	2	43
+328	probability 	prevent	went through	63	463	2	28
+330	probability 	hinder	went through	68	227	2	45
+331	probability 	none_wt	went through	62	390	1	37
+332	probability 	prevent	went through	29	464	1	40
+334	probability 	hinder	went through	95	228	2	21
+336	probability 	none_wt	went through	18	391	1	27
+338	probability 	hinder	went through	80	229	1	24
+340	probability 	none_wt	went through	71	392	2	56
+341	probability 	hinder	went through	100	230	2	24
+343	probability 	prevent	went through	93	465	2	28
+345	probability 	hinder	went through	70	231	1	31
+347	probability 	none_wt	went through	35	393	1	29
+348	probability 	prevent	went through	99	466	2	25
+350	probability 	hinder	went through	67	232	1	46
+352	probability 	prevent	went through	78	467	2	25
+354	probability 	hinder	went through	83	233	1	35
+355	probability 	prevent	went through	100	468	1	22
+357	probability 	none_wt	went through	2	394	2	31
+359	probability 	none_wt	went through	1	395	1	22
+360	probability 	hinder	went through	100	234	2	24
+362	probability 	none_wt	went through	46	396	1	27
+363	probability 	prevent	went through	72	469	1	33
+364	probability 	hinder	went through	72	235	1	34
+366	probability 	none_wt	went through	32	397	2	37
+368	probability 	hinder	went through	37	236	1	61
+370	probability 	prevent	went through	62	470	1	34
+372	probability 	hinder	went through	15	237	2	53
+373	probability 	none_wt	went through	88	398	1	30
+375	probability 	none_wt	went through	0	399	2	33
+376	probability 	prevent	went through	99	471	1	29
+377	probability 	hinder	went through	59	238	2	22
+379	probability 	none_wt	went through	92	400	1	21
+380	probability 	prevent	went through	52	472	2	50
+382	probability 	hinder	went through	68	239	2	35
+384	probability 	prevent	went through	57	473	1	21
+386	probability 	hinder	went through	74	240	1	20
+387	probability 	none_wt	went through	17	401	1	43
+389	probability 	hinder	went through	75	241	2	25
+391	probability 	prevent	went through	100	474	1	26
+393	probability 	hinder	went through	100	242	1	21
+395	probability 	none_wt	went through	88	402	1	42
+396	probability 	prevent	went through	52	475	1	28
+398	probability 	hinder	went through	41	243	1	29
+400	probability 	none_wt	went through	50	403	1	32
+401	probability 	prevent	went through	68	476	2	23

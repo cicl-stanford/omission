@@ -1,0 +1,70 @@
+[
+  {
+    "trial": 0,
+    "marbles": {
+      "A": {
+        "position": [750, 100],
+        "velocity": [0, 0],
+        "delay": 0,
+        "noisy": -1
+      },
+      "E": {
+        "position": [750, 300],
+        "velocity": [-1, 0],
+        "delay": 0,
+        "noisy": -1
+      }
+    },
+    "extra_walls": []
+  },
+  {
+    "trial": 1,
+    "marbles": {
+      "A": {
+        "position": [750, 100],
+        "velocity": [0, 0],
+        "delay": 20,
+        "noisy": 0
+      },
+      "E": {
+        "position": [750, 500],
+        "velocity": [-1, -0.5],
+        "delay": 0,
+        "noisy": -1
+      }
+    },
+    "extra_walls": []
+  },
+  {
+    "trial": 2,
+    "marbles": {
+      "A": {
+        "position": [780, 60],
+        "velocity": [-1.75, 0.75],
+        "delay": 0,
+        "noisy": -1
+      },
+      "B": {
+        "position": [780, 540],
+        "velocity": [-1.75, -0.415],
+        "delay": 300,
+        "noisy": -1
+      },
+      "E": {
+        "position": [80, 300],
+        "velocity": [0, 0],
+        "delay": 0,
+        "noisy": -1
+      }
+    },
+    "extra_walls": [
+      {
+        "name": "obstacle",
+        "position": [595, 155],
+        "length": 410,
+        "height": 20,
+        "color": "black"
+      }
+    ]
+  }
+]

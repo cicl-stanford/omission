@@ -1,0 +1,105 @@
+sID	Q_order	Col_Order	Barrier_Pos	blame	difficulty	Study_Code	open_Q	Age	Sex	Technical_issues	Duration	Disp_Code	sID_cond
+334	blame_first	blue_first	bottom	24	-50	MC01	As blue had a easier shot, they had a higher chance of getting the gray marble into the hole, the blue player had to make a more complicated judgement requiring more accuracy, while the green player had a straight shot	19	1	-99	200	31	1
+347	blame_first	blue_first	bottom	0	-50	MC01	both players didn't knock the grey marble into the goal, equally to blame. but blue marble in harder position	21	2	-99	148	31	2
+350	blame_first	blue_first	bottom	-2	-50	MC01	because the blue marble has a wall and would have to calculate more trajectory.	25	1	none	124	31	3
+376	blame_first	blue_first	bottom	0	-45	MC01	Both players failed so both equally to blame. However due to the positioning on the long barrier by the blue marble they had a more difficult job to succeed as they can only come in at 1 angle where as red had 2 but both failed so both equally to blame	31	2	-99	294	31	4
+380	blame_first	blue_first	bottom	42	-41	MC01	Green has a straight line. Blue has to factor in bounces.	50	1	-99	103	31	5
+395	blame_first	blue_first	bottom	14	-23	MC01	The green ball would have been able to make a more direct hit than the blue one as it had the wall in the way	26	2	-99	191	31	6
+412	blame_first	blue_first	bottom	35	-37	MC01	the green just had to aim at the object whilst the blue did not have a direct line.	42	1	none	327	31	7
+418	blame_first	blue_first	bottom	37	-41	MC01	the green marble is not limited by the barrier so can aim at the grey marble better	37	2	-99	252	31	8
+449	blame_first	blue_first	bottom	0	37	MC01	Harder because they have less aim, bigger space to make judgements in. Also, don't think there is any 'blame' involved at all. Not neccessary to 'blame' someone. It's a game. Neither are to blame for the lack of score.	28	2	-99	208	31	9
+469	blame_first	blue_first	bottom	48	-49	MC01	At the bottom there is a wall in the way of a clear shot. But the other player has a clear shot just needs a good aim.	28	1	None.	525	31	10
+470	blame_first	blue_first	bottom	10	-7	MC01	The blue player had the barrier next to them so they have to account for more bounces than the green player.	23	1	-99	139	31	11
+493	blame_first	blue_first	bottom	50	-50	MC01	Blue player had to bounce the ball at least once	27	1	-99	120	31	12
+500	blame_first	blue_first	bottom	0	-38	MC01	None of the players seemed to influence each other in this game.	22	1	No issues.	121	31	13
+337	blame_first	blue_first	top	-50	48	MC01	The blue marble had no barriers blocking the line of sight, making the trajectory much easier to calculate. Missing with blue is more of an error than green.	30	1	-99	159	31	1
+349	blame_first	blue_first	top	-48	46	MC01	The marble with a clear line of sight of the gate protected by the grey marble is to blame	63	1	Yes, the PROLIFIC ID would not copy and paste, had to enter code manually.	492	31	2
+355	blame_first	blue_first	top	-34	50	MC01	I thought that the blue player was more to blame because they had the easier shot with no blocking barrier on this turn, so it was more of their responsibility.	28	1	-99	104	31	3
+360	blame_first	blue_first	top	0	32	MC01	Even though the green marble had a bit more of a difficult time, it was round one of the game and so both players would still be getting a feel for the game.	26	2	-99	126	31	4
+381	blame_first	blue_first	top	0	24	MC01	Neither were able to get the grey marble. The barrier has some effect but at the same time, it acts as a limiter that can help the player keep a steady level.	23	1	-99	195	31	5
+383	blame_first	blue_first	top	0	44	MC01	they were equally to blame as they came from the same angel	52	1	none	307	31	6
+416	blame_first	blue_first	top	-20	44	MC01	The green player had a bar right next to its marble starting position, meaning it had far less of an angle to hit the grey marble and would have to rely on bouncing as a zig-zag before possibly hitting the grey marble. It is not, however, impossible in mathematical terms (I think). The blue player just had to shoot its marble in a straight line so it would be far easier for them.	30	2	No issues	215	31	7
+426	blame_first	blue_first	top	0	36	MC01	Both players were to be blamed equally as neither influenced the difficulty of knocking the grey marble in for the other player. Neither player even touched the grey marble. However, it seems to be harder for the green player to knock the grey marble into the gate than the blue player as the green player had an obstruction (the black line beside it) whereas the blue player did not.	22	2	NIL	325	31	8
+427	blame_first	blue_first	top	0	0	MC01	Both the green and blue marbles were in the same position on the field and the gray marble was in the center of the red gate making the  blame  for not hitting it exactly equal for both players.	57	2	No, none.	320	31	9
+456	blame_first	blue_first	top	-1	48	MC01	the blueha   a relatevly straight path where as the green had the bar	50	2	-99	260	31	10
+459	blame_first	blue_first	top	-31	44	MC01	The blue marble was in the open and an easier shot that the green one which was behind a wall	27	1	-99	170	31	11
+471	blame_first	blue_first	top	0	30	MC01	The positioning of barriers and therefore whether controlled bouncing was required (extra skill)	19	2	-99	145	31	12
+481	blame_first	blue_first	top	-11	18	MC01	It was more difficult for the player to hit the grey marble with the barrier obstructing their aim	34	2	-99	338	31	13
+345	blame_first	green_first	bottom	0	0	MC01	the green marble had a direct but longer line but the blue was able to bounce to get to the grey marble	60	2	-99	227	31	1
+346	blame_first	green_first	bottom	-2	-50	MC01	Because neither of them knocked into the grey so they were both equally to blame for not scoring a point	21	2	-99	214	31	2
+356	blame_first	green_first	bottom	36	-50	MC01	The blue marble player was more constricted (due to the additional barrier) and thus at an unfairer advantage than the green marble player.	27	2	-99	137	31	3
+377	blame_first	green_first	bottom	15	-26	MC01	Since the green player had less factors to think of when choosing how to hit the ball, they had somewhat more of a chance. And, since they went first, they also could have avoided the blue player having to struggle through their turn.	22	2	Nothing! All good.	167	31	4
+392	blame_first	green_first	bottom	0	-42	MC01	both players failed, both are to blame equally	32	2	none	174	31	5
+393	blame_first	green_first	bottom	50	-50	MC01	Green was more to blame because they had a easy and straight shot to the other marble.	25	1	-99	142	31	6
+409	blame_first	green_first	bottom	21	-47	MC01	The green was more to blame as they had no obstacle so it should have been a fairly easy task, whereas the blue player had an obstacle which made their task more difficult.	40	2	Not being able to paste in my prolific ID was a pain!	290	31	7
+431	blame_first	green_first	bottom	19	-42	MC01	Since it was easier for the green player to succeed in hitting the gray marble into the goal, they were more to blame for failing at the task.	24	2	-99	191	31	8
+439	blame_first	green_first	bottom	1	-1	MC01	Both had the chance to score but unfortunately, the precision was lost	44	2	-99	180	31	9
+453	blame_first	green_first	bottom	34	-47	MC01	There's a barrier in the way for the blue marble therefore making it much harder. The green marble has a completely wide open aim and still managed to completely miss the grey marble	26	1	-99	125	31	10
+457	blame_first	green_first	bottom	50	-49	MC01	The blue player had a physical barrier making it more difficult to accurately aim their shot.	28	1	-99	143	31	11
+467	blame_first	green_first	bottom	45	-48	MC01	I thought the green played was more to blame because they had an easier path to the grey marble.	28	2	-99	224	31	12
+476	blame_first	green_first	bottom	0	0	MC01	If I were playing that game I think I would find it equally difficult to be both the green and blue player. Neither one has an advantage.	26	2	-99	143	31	13
+327	blame_first	green_first	top	-10	42	MC01	I didn't think either player should be blamed too hard	19	1	-99	110	31	1
+332	blame_first	green_first	top	-6	27	mc01	I think blame is a strong word and games like this are partly skill, partly luck. It could be a difficult shot for anyone.	36	2	-99	208	31	2
+361	blame_first	green_first	top	-38	37	MC01	The player that had the additional barrier had a harder shot.   The other player had a clear shot and did not have to calculate how to bounce the ball off the barrier to get the right angle to hit the grey marble.	42	2	-99	300	31	3
+363	blame_first	green_first	top	-50	50	MC01	The additional barrier prevented the green marble from having a straight shot.	30	1	-99	188	31	4
+372	blame_first	green_first	top	0	11	MC01	Both players were blamed as neither of them were closer to hitting the grey marble	25	2	-99	110	31	5
+385	blame_first	green_first	top	-27	40	MC01	In general I don't like the concept of blame.     I think the blue player did have an easier shot so they had a better chance of being able to succeed.	34	1	-99	126	31	6
+403	blame_first	green_first	top	-48	47	MC01	The blue ball did not have a wall barrier to hinder their ability to knock the grey ball.	52	1	none	260	31	7
+411	blame_first	green_first	top	-36	49	MC01	The green player had no chance of hitting the marble through in one shot. It was smart of the green marble to just be removed from the game and then for the blue marble to complete the task.	30	1	None	179	31	8
+421	blame_first	green_first	top	0	42	MC01	The on the first screen I felt they were both equal to blame judging the angles of which both balls had to travel in order to reach the grey ball. In the second example the green ball had a very difficult angle, much harder than the blue ball.	44	1	-99	195	31	9
+425	blame_first	green_first	top	0	49	MC01	They both equally missed the target, even if the green had a more difficult position.	28	2	-99	150	31	10
+443	blame_first	green_first	top	0	50	MC01	They both had the same task and failed due to miscalculation, so equal failure. Green had a harder time due to a block in the path though but does not lessen the blame	22	1	N/A	140	31	11
+461	blame_first	green_first	top	-7	27	MC01	I thought that the blue player should have found it easier, and so indicated - just slightly - that he was more to blame.	56	2	-99	167	31	12
+465	blame_first	green_first	top	-28	50	MC01	Blue had the advantage of carrying the team. While they both share some blame, green had a more difficult time of scoring a point and thus less blame.	31	2	-99	168	31	13
+323	diff_first	blue_first	bottom	24	31	MC01	Just couldnt see the blue one make it	34	2	-99	199	31	1
+351	diff_first	blue_first	bottom	0	-48	MC01	On reflection it would be easier to hit the grey marble with the blue one as you can bounce off the walls, making the shot easier, as such they both really should have hit the target and are both equally to blame.	26	1	-99	156	31	2
+352	diff_first	blue_first	bottom	32	-49	MC01	The blue player had a much more difficult path to take, so green should have hit the ball into the gate.	39	2	-99	278	31	3
+366	diff_first	blue_first	bottom	50	-50	MC01	Green player had a clear shot. Blue player had an obstacle completely out of their control	20	1	-99	124	31	4
+369	diff_first	blue_first	bottom	45	-46	MC01	I thought that the green player had much more of an advantage so was more to blame for not succeeding.The blue player had a harder task in succeeding because of the barrier in the way.	41	2	-99	297	31	5
+375	diff_first	blue_first	bottom	-7	-47	MC01	It depended on their shots. Some shots were more accurate than the other ones.	35	2	No, apart from not being able to use copy+paste for my Prolific ID	484	31	6
+386	diff_first	blue_first	bottom	50	-50	MC01	The fact that the blue player had a harder job made me blame the green player more.	29	2	-99	125	31	7
+396	diff_first	blue_first	bottom	50	-49	mc01	The green marble had a clear direct path and there was a simple A-B shot. The blue marble had to hit the sides and you had to work out the angles at which the marble came off - making it a lot more difficult to judge.	50	1	-99	288	31	8
+424	diff_first	blue_first	bottom	-1	0	MC01	I just went on instinct/first impression of how I perceived the game/flow/etc.	27	1	-99	1081	31	9
+442	diff_first	blue_first	bottom	24	-50	MC01	the green player had a much fairer and easier shot to hit the grey marble and missed so i think he messed up the better oppurtunity therefore is more to blame	22	1	-99	123	31	10
+450	diff_first	blue_first	bottom	50	-49	MC01	Because the green one had a better chance at getting it in	35	1	-99	140	31	11
+451	diff_first	blue_first	bottom	0	-50	MC01	Both still had doable shots so both were able, and failed, to hit the ball	26	1	-99	105	31	12
+475	diff_first	blue_first	bottom	17	-50	MC01	The blue player had only a slight chance to knock the marble through the gate, and it would seem to be possible more by chance than skill. The green player could achieve this by skill but failed.	47	1	-99	202	31	13
+342	diff_first	blue_first	top	0	49	MC01	Because it relies on the players ability to aim and they both might not be good at it.	23	2	-99	183	31	1
+348	diff_first	blue_first	top	0	49	MC01	neither were to blame, just one of those things	60	2	-99	432	31	2
+359	diff_first	blue_first	top	-14	49	MC01	The blue player had an easier job.	21	1	Could not copy-paste my Prolific code.	232	31	3
+371	diff_first	blue_first	top	0	50	MC01	even though the barriers were different, the blame is still the same because they both had a shot at trying to get it through the gate	36	1	-99	171	31	4
+373	diff_first	blue_first	top	-50	32	MC01	The blue marble failed to hit the grey marble into the gate.	24	1	N/A	137	31	5
+374	diff_first	blue_first	top	-19	49	MC01	It should have been easier to hit the marble without a barrier	34	1	-99	194	31	6
+388	diff_first	blue_first	top	0	50	MC01	Could have considered the angles better and taken more time to work out the results?	46	2	-99	346	31	7
+432	diff_first	blue_first	top	-27	50	MC01	I think blue player was more to blame because the player had a direct line to get the grey marble through the gate.	25	2	-99	181	31	8
+440	diff_first	blue_first	top	-40	50	MC01	ease of shot greens shot requires more planning and estimating where as blues is relitively straight forward	32	1	-99	137	31	9
+458	diff_first	blue_first	top	-38	-32	MC01	the blue ball did not have a barrier. so he has to be blamed more	28	1	-99	130	31	10
+468	diff_first	blue_first	top	0	-1	MC01	Both players had an equal shot.	23	2	-99	129	31	11
+479	diff_first	blue_first	top	0	-9	mc01	angles	29	1	-99	118	31	12
+483	diff_first	blue_first	top	-35	-48	MC01	After watching the short clip the blue ball had less interference and could have angled themselves better to accomplish the task.	36	2	-99	115	31	13
+328	diff_first	green_first	bottom	49	-49	MC01	The green player was more to blame as he had a clear shot, whereas the blue player had a hard task with the barrier in the way.	22	1	-99	146	31	1
+344	diff_first	green_first	bottom	0	-40	MC01	They both missed, so they are both to blame. It doesn't matter that the blue marble player had a harder shot, it got ridiculously close.	37	2	-99	227	31	2
+382	diff_first	green_first	bottom	21	-50	MC01	They share the blame since they both failed, but I am of the opinion that the person who was handed the better opportunity takes a bigger share of the blame for not being successful.	27	1	-99	165	31	3
+390	diff_first	green_first	bottom	-47	-49	MC01	The blue player had a clear shot at goal	51	1	-99	148	31	4
+397	diff_first	green_first	bottom	50	-50	MC01	The green player had a much easier opportunity to succeed.	53	1	-99	200	31	5
+400	diff_first	green_first	bottom	45	-43	MC01	The green player is more to blame in my opinion.  The green player had more room to maneuver the marble and use the sides as one does in snooker.	68	2	Yes, I was unable to copy and paste my prolific ID into the box so had to manually write it down on a piece of paper and physically type it into the box.  Other than that everything else went smoothly.	487	31	6
+414	diff_first	green_first	bottom	39	5	MC01	THE GREEN PLAYER SEEMED TO BE MORE RASH WHILKE THE BLUE SEEMED MORE MEASURED.	42	1	-99	153	31	7
+415	diff_first	green_first	bottom	37	-42	MC01	I think the green player had an easier shot. So they are more to blame	50	1	No Problems	329	31	8
+435	diff_first	green_first	bottom	47	-49	MC01	The blue marble is almost impossible to get to hit the marble through the gate, the blame therefore has to be with the green marble player	45	1	-99	176	31	9
+454	diff_first	green_first	bottom	0	-41	MC01	I'd say they were equally to blame since they both missed by the same distance.	35	2	-99	119	31	10
+460	diff_first	green_first	bottom	36	-50	MC01	The green had a clear shot, the blue had to bounce around before they could hit the goal.	51	1	-99	168	31	11
+474	diff_first	green_first	bottom	36	-50	MC01	It seemed like a very easy task for 1 of the 2 payers. In that situation the blue player is almost relying on the green player to complete the simple task. There are no obstacles for the green ball. In situations like this it makes you wonder if people are trying to fail on purpose. I do play video games and often have to rely on others to do simple tasks and its very frustrating when they fail.	29	1	Chrome browser refused to allow Flash player to run. I Copied the link into Firefox and it worked fine.	796	31	12
+487	diff_first	green_first	bottom	37	-50	MC01	GREEN MARBLE HAD A CLEAR SHOT AT THE GREY MARBLE	34	1	-99	120	31	13
+341	diff_first	green_first	top	0	50	MC01	I thought that both players were equally to blame, they each had a task that had it's own specific and different challenges so neither were more or less to blame. It's a game largely based on chance, but also skill.	31	2	-99	376	31	1
+343	diff_first	green_first	top	-23	0	MC01	Green marble had barrier in the way so it was harder	19	2	-99	147	31	2
+358	diff_first	green_first	top	-14	50	MC01	The blue player was more to blame because they faced less obstruction and therefore had a higher chance of hitting the grey marble into the red gate. It should have been easier for the blue player compared to the green player.	20	2	-99	204	31	3
+362	diff_first	green_first	top	-50	45	MC01	The blue player had a much easier shot than the green player. The green player would have had to calculate their shot more precisely.	24	2	-99	137	31	4
+368	diff_first	green_first	top	-34	49	MC01	Blue had more room and an easier chance to score the point so I blame blue more.	27	2	none.	310	31	5
+370	diff_first	green_first	top	-50	49	MC01	The blue player had more of a chance to hit the grey marble,I think the player did not aim very well at the grey marble and could have hit it if he or she did.	39	1	-99	337	31	6
+387	diff_first	green_first	top	0	50	MC01	Both players missed their target completely, thus are equal in the blame.	30	1	-99	150	31	7
+419	diff_first	green_first	top	-37	48	MC01	The blue player had a better view of the grey marble and therefore was in a much better position to achieve a victory. This is why I felt the blue player was more to blame for the loss	28	1	-99	188	31	8
+423	diff_first	green_first	top	-42	-3	MC01	EASIER TO HIT	20	2	-99	108	31	9
+438	diff_first	green_first	top	0	38	MC01	I feel that both players played to the best of their ability and both missed by the same narrow margin.  I also believe the game was more to do with luck than skill. Therefore I feel that both players were to be blamed equally.	35	2	-99	250	31	10
+444	diff_first	green_first	top	-14	18	MC01	Blue player had an easier shot.	33	1	-99	87	31	11
+455	diff_first	green_first	top	-37	45	MC01	the green had a much harder angle to negotiate, blue was relatively easy	50	1	couldnt copy and paste ac number	316	31	12
+464	diff_first	green_first	top	0	50	MC01	Because they both had equal chnace and neither achieved the aim.	26	1	-99	125	31	13
