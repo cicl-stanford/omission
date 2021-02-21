@@ -40,8 +40,10 @@ library("tidyverse")  # everything else
 theme_set(theme_classic() +
             theme(text = element_text(size = 24)))
 
-opts_chunk$set(comment = "#>",
+opts_chunk$set(comment = "",
                fig.show = "hold")
+
+options(dplyr.summarise.inform = F) # disable summarize ungroup messages
 ```
 
 # Functions 
@@ -104,7 +106,7 @@ df.exp1.long %>%
             n_causation = sum(question == "causation"),
             n_probability = sum(question == "probability"),
             n_female = sum(sex == "female")) %>% 
-  print_table()
+  print_table(digits = 0)
 ```
 ## Read in model predictions 
 
@@ -342,7 +344,7 @@ ggsave("../../figures/plots/exp1_model_noise.pdf",
 
 ### ANOVA 
 
-```{r}
+```{r, warning=F}
 fit.aov_exp1 = aov_ez(id = "participant",
                       dv = "rating",
                       data = df.exp1.long,
@@ -353,33 +355,33 @@ fit.aov_exp1 = aov_ez(id = "participant",
 
 #### Effect of outcome
 
-```{r}
+```{r, warning=F}
 fit.aov_exp1 %>% 
   emmeans(~ target) %>% 
   pairs() %>% 
-  apa_print.emmGrid() %>% 
-  .$full_result %>% 
-  .$hit_miss
+  apa_print() %>% 
+  pluck("full_result") %>% 
+  pluck("hit_miss")
 ```
 
 #### Effect of condition 
 
-```{r}
+```{r, warning=F}
 # comparing no expectations with the other two 
 fit.aov_exp1 %>%
   emmeans(~ condition) %>%
   contrast(list(none_vs_rest = c(-1, 0.5, 0.5))) %>% 
-  apa_print.emmGrid() %>% 
-  .$full_result %>% 
-  .$none_vs_rest
+  apa_print() %>% 
+  pluck("full_result") %>% 
+  pluck("none_vs_rest")
 
 # compare all three conditions with each other 
 fit.aov_exp1 %>% 
   emmeans(~ condition) %>% 
   pairs() %>% 
-  apa_print.emmGrid() %>% 
-  .$full_result %>% 
-  .$experience_social
+  apa_print() %>% 
+  pluck("full_result") %>% 
+  pluck("experience_social")
 ```
 
 ## Tables 
@@ -388,9 +390,9 @@ fit.aov_exp1 %>%
 
 ```{r}
 fit.aov_exp1 %>% 
-  apa_print.afex_aov() %>% 
-  .$table %>% 
-  select(-c(df2, MSE)) %>% 
+  apa_print() %>% 
+  pluck("table") %>% 
+  select(-c(df.residual, mse)) %>% 
   print_table()
   # print_table(format = "latex")
 ```
@@ -425,7 +427,7 @@ df.exp2.long %>%
             age_sd = sd(age),
             n = n(), 
             n_female = sum(sex == "female")) %>% 
-  print_table()
+  print_table(digits = 0)
 ```
 
 
@@ -508,8 +510,8 @@ lm(formula = rating ~ clip,
          data = df.exp2.long) %>% 
   emmeans("clip") %>% 
   pairs() %>% 
-  apa_print.emmGrid() %>% 
-  .$table %>% 
+  apa_print() %>% 
+  pluck("table") %>% 
   print_table()
 ```
 
@@ -550,7 +552,7 @@ df.exp3.wide %>%
             age_sd = sd(age),
             n = n(), 
             n_female = sum(sex == 2)) %>% 
-  print_table()
+  print_table(digits = 0)
 ```
 
 ## Read in model predictions 
@@ -889,14 +891,13 @@ fit.blame %>%
 
 fit.difficulty %>% 
   apa_print() %>% 
-  .$statistic %>% 
-  .$question_orderdiff_first
+  pluck("statistic") %>% 
+  pluck("question_orderdiff_first")
 
 fit.blame %>% 
-  apa_print() %>% 
-  .$statistic %>% 
-  .$question_orderdiff_first
-
+  apa_print() %>%
+  pluck("statistic") %>% 
+  pluck("question_orderdiff_first")
 ```
 
 
