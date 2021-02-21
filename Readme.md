@@ -2,6 +2,8 @@
 
 This project contains the materials for the paper "A counterfactual simulation model of causation by omission" by Tobias Gerstenberg and Simon Stephan. 
 
+https://zenodo.org/badge/211161061.svg
+
 # Project structure 
 
 ```
