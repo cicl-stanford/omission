@@ -105,7 +105,8 @@ df.exp1.long %>%
             n = n(), 
             n_causation = sum(question == "causation"),
             n_probability = sum(question == "probability"),
-            n_female = sum(sex == "female")) %>% 
+            n_female = sum(sex == "female"),
+            n_male = sum(sex == "male")) %>% 
   print_table(digits = 0)
 ```
 ## Read in model predictions 
@@ -426,7 +427,8 @@ df.exp2.long %>%
   summarize(age_mean = mean(age),
             age_sd = sd(age),
             n = n(), 
-            n_female = sum(sex == "female")) %>% 
+            n_female = sum(sex == "female"),
+            n_male = sum(sex == "male")) %>% 
   print_table(digits = 0)
 ```
 
@@ -551,7 +553,8 @@ df.exp3.wide %>%
   summarize(age_mean = mean(age),
             age_sd = sd(age),
             n = n(), 
-            n_female = sum(sex == 2)) %>% 
+            n_female = sum(sex == 2),
+            n_male = sum(sex == 1)) %>% 
   print_table(digits = 0)
 ```
 
