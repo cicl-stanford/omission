@@ -719,6 +719,7 @@ ggplot(df.plot,
              size = 2) +
   stat_summary(fun.data = "mean_cl_boot",
                mapping = aes(shape = "mean judgment"),
+               show.legend = F,
                geom = "pointrange",
                fill = "red",
                size = 1.2)  +
